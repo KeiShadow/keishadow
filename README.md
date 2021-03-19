@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently working on :electron:, Flutter, Dart.
+- 🌱 I’m currently working on React, Flutter, Dart.
 - 📫 How to reach me: [Instagram - Petr Noga](https://www.instagram.com/petr_noga/)
 
 
