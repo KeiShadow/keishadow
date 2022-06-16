@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently working on React, Flutter, Dart.
-- 📫 How to reach me: [Instagram - Petr Noga](https://www.instagram.com/petr_noga/)
+- 📫 How to reach me: n.skypo@gmail.com
 
 
 | <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="250" height="250"/>  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeiShadow&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br /> - ⚡ Fun fact: C++ are projects from school  |
